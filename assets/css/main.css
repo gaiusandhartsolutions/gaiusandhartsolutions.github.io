@@ -1135,6 +1135,10 @@ button:disabled,
   padding-left: 0;
 }
 
+#footer .copyright li:last-child {
+  font-size: 6px;
+}
+
 #footer .copyright a {
   color: inherit;
 }
